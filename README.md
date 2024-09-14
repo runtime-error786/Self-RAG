@@ -20,7 +20,6 @@ Grading Mechanism: Grade the relevance of documents and the grounding of generat
 
 
 
-![output](https://github.com/user-attachments/assets/cd1649ab-bc99-48d2-94ae-73ef3cbc0be0)
 
 
 
@@ -29,3 +28,8 @@ Hallucination Detection: Identify whether the generated content is grounded in t
 
 
 Useful Answer Assessment: Grade generated answers to determine if they address the user’s question.
+
+
+
+![output](https://github.com/user-attachments/assets/cd1649ab-bc99-48d2-94ae-73ef3cbc0be0)
+
