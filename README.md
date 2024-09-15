@@ -1,6 +1,6 @@
 ## Overview
 
-This project implements a Retrieval-Augmented Generation (RAG) chain using a local LLM (Llama3) and the LangChain framework. It focuses on enhancing question answering by improving document retrieval, filtering relevant documents, re-generating questions, and scoring the generated responses. This setup allows for more accurate and contextually relevant responses based on retrieved documents.
+This project implements a Retrieval-Augmented Generation (RAG) chain using a local LLM (Llama3) and the LangChain framework. It focuses on enhancing question answering by improving document retrieval, filtering relevant document, re-generating questions, and scoring the generated responses. This setup allows for more accurate and contextually relevant responses based on retrieved documents.
 
 ## Features
 
